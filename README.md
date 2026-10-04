@@ -1,8 +1,10 @@
 # FinTrust Digital Bank — Advanced BI & Analytics (Week 3)
 
 ## Project Overview
-This repository contains the **Week 3 Data Analytics Track** deliverables for the **AnalystLab Africa Experience Lab Internship**[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span). The project focuses on conducting advanced SQL querying, exploratory data analysis in Python, interactive dashboard creation in Power BI, and business validation for **FinTrust Digital Bank**.
+This repository contains the **Week 3 Data Analytics Track** deliverables for the **AnalystLab Africa Experience Lab Internship**. The project focuses on conducting advanced SQL querying, exploratory data analysis in Python, interactive dashboard creation in Power BI, and business validation for **FinTrust Digital Bank**.
+
 ---
+
 ## 📁 Repository Structure & Deliverables
 
 | File Name | Format | Description |
@@ -16,8 +18,8 @@ This repository contains the **Week 3 Data Analytics Track** deliverables for th
 | `fig3_risk_by_segment.png` | PNG | Visual breakdown of transaction risk flags across customer segments. |
 | `fig4_status_by_channel_heatmap.png` | PNG | Heatmap detailing transaction status distributions across channels. |
 | `fig5_amount_distribution_boxplot.png` | PNG | Boxplot visualization showing transaction value spread and variance. |
-| `FINTRUST CUSTOMER DATA.csv` | CSV | Core customer demographic and account dataset[span_2](start_span)[span_2](end_span). |
-| `FINTRUST TRANSACTION DATA.csv` | CSV | Operational transactional dataset[span_3](start_span)[span_3](end_span). |
+| `FINTRUST CUSTOMER DATA.csv` | CSV | Core customer demographic and account dataset. |
+| `FINTRUST TRANSACTION DATA.csv` | CSV | Operational transactional dataset. |
 
 ---
 
